@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "advantages": "차별점",
+    "products": "제품 소개",
+    "company": "회사 소개",
+    "contact": "문의하기"
+  },
+  "hero": {
+    "title": "해양심층수로 완성된 프리미엄 명태",
+    "subtitle": "고성명태는 특허받은 해양심층수 기술로 가공하여 비교할 수 없는 맛과 영양의 황태와 코다리를 제공합니다",
+    "cta": "견적 및 샘플 문의"
+  },
+  "advantages": {
+    "title": "고성명태의 경쟁력",
+    "patent": {
+      "title": "특허받은 기술력",
+      "description": "미네랄이 풍부한 수심 605m의 해양심층수를 특허받은 세척, 숙성, 냉동 공정에 활용하여 풍미와 영양을 극대화합니다"
+    },
+    "nutrition": {
+      "title": "과학적으로 증명된 영양",
+      "description": "일반 건조 명태에 비해 필수 미네랄과 함황 아미노산 함량이 월등히 높다는 사실이 과학적으로 증명되었습니다"
+    },
+    "supply": {
+      "title": "안정적인 원물 확보",
+      "description": "러시아 슬라비안카시와의 공식 협약을 통해 연간 3만 톤 이상의 명태를 안정적으로 확보했습니다"
+    }
+  },
+  "technology": {
+    "title": "차별화된 제조 공정",
+    "step1": {
+      "title": "원물 수급",
+      "description": "러시아에서 최상급 명태를 직접 수입합니다"
+    },
+    "step2": {
+      "title": "가공",
+      "description": "HACCP 인증을 준비 중인 위생적인 시설에서 해양심층수 주입 방식으로 해동, 세척, 가공합니다"
+    },
+    "step3": {
+      "title": "건조",
+      "description": "명태의 본고장 고성의 청정한 해풍으로 자연 건조하여 깊은 맛을 더합니다"
+    }
+  },
+  "products": {
+    "title": "주요 제품 라인업",
+    "hwangtaepo": {
+      "title": "고성 황태포",
+      "description": "구이, 찜 등 전통 요리에 이상적이며 깊고 풍부한 맛을 자랑합니다"
+    },
+    "hwangtaechae": {
+      "title": "고성 황태채",
+      "description": "국물 요리나 무침에 적합하며 뽀얗고 구수한 국물을 만들어냅니다"
+    },
+    "kodari": {
+      "title": "고성 코다리",
+      "description": "쫀득한 식감이 일품이며, 조림이나 찜 요리에 최적화된 반건조 제품입니다"
+    }
+  },
+  "certifications": {
+    "title": "신뢰도 및 인증",
+    "local": {
+      "title": "고성군 수산물 산지가공시설",
+      "description": "지원사업 선정 업체"
+    },
+    "venture": {
+      "title": "중소기업진흥공단",
+      "description": "인증 벤처기업"
+    },
+    "university": {
+      "title": "경동대학교 해양심층수학과",
+      "description": "산학협력 업체"
+    },
+    "ministry": {
+      "title": "해양수산부",
+      "description": "어업경영체 등록 업체"
+    }
+  },
+  "cta": {
+    "title": "고성명태와 함께 성공적인 비즈니스를 만드세요",
+    "subtitle": "지금 바로 도매 가격, 샘플, 파트너십에 대해 문의하세요"
+  },
+  "form": {
+    "name": {
+      "label": "이름 *",
+      "placeholder": "이름을 입력해주세요"
+    },
+    "company": {
+      "label": "회사명 *",
+      "placeholder": "회사명을 입력해주세요"
+    },
+    "email": {
+      "label": "이메일 *",
+      "placeholder": "이메일 주소를 입력해주세요"
+    },
+    "phone": {
+      "label": "연락처",
+      "placeholder": "연락처를 입력해주세요"
+    },
+    "message": {
+      "label": "문의 내용 *",
+      "placeholder": "문의하실 내용을 상세히 입력해주세요"
+    },
+    "submit": "문의하기"
+  },
+  "footer": {
+    "company": "어업회사법인 고성명태㈜",
+    "ceo": "대표자:",
+    "ceo.name": "[대표자명]",
+    "address": {
+      "head": "본사:",
+      "head.detail": "[본사 주소]",
+      "factory": "할복장:",
+      "factory.detail": "[할복장 주소]",
+      "seoul": "서울사무소:",
+      "seoul.detail": "[서울사무소 주소]"
+    },
+    "contact": "연락처:",
+    "contact.detail": "[연락처 정보]",
+    "copyright": "© 2024 어업회사법인 고성명태㈜. All rights reserved."
+  }
+}

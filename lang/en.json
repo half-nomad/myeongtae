@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "advantages": "Advantages",
+    "products": "Products",
+    "company": "Company",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Premium Pollack Perfected with Deep Sea Water",
+    "subtitle": "Goseong Myeongtae provides unmatched taste and nutrition in our Hwangtae and Kodari products, processed with patented deep sea water technology",
+    "cta": "Request Quote & Samples"
+  },
+  "advantages": {
+    "title": "Goseong Myeongtae's Competitive Edge",
+    "patent": {
+      "title": "Patented Technology",
+      "description": "We maximize flavor and nutrition by utilizing mineral-rich deep sea water from 605m depth in our patented washing, aging, and freezing processes"
+    },
+    "nutrition": {
+      "title": "Scientifically Proven Nutrition",
+      "description": "Scientific studies prove that our products contain significantly higher levels of essential minerals and sulfur amino acids compared to regular dried pollack"
+    },
+    "supply": {
+      "title": "Stable Raw Material Supply",
+      "description": "Through official agreements with Slavianka, Russia, we have secured a stable supply of over 30,000 tons of pollack annually"
+    }
+  },
+  "technology": {
+    "title": "Differentiated Manufacturing Process",
+    "step1": {
+      "title": "Raw Material Supply",
+      "description": "We directly import the highest quality pollack from Russia"
+    },
+    "step2": {
+      "title": "Processing",
+      "description": "We process through thawing, washing, and processing using deep sea water injection in our hygienic facilities preparing for HACCP certification"
+    },
+    "step3": {
+      "title": "Drying",
+      "description": "Natural drying with the clean sea breeze of Goseong, the homeland of pollack, adds deep flavor"
+    }
+  },
+  "products": {
+    "title": "Main Product Lineup",
+    "hwangtaepo": {
+      "title": "Goseong Hwangtae-po",
+      "description": "Ideal for grilling and steaming traditional dishes, boasting deep and rich flavors"
+    },
+    "hwangtaechae": {
+      "title": "Goseong Hwangtae-chae",
+      "description": "Perfect for soup dishes and seasoned salads, creating clean and savory broth"
+    },
+    "kodari": {
+      "title": "Goseong Kodari",
+      "description": "Excellent chewy texture, semi-dried product optimized for braised or steamed dishes"
+    }
+  },
+  "certifications": {
+    "title": "Trust & Certifications",
+    "local": {
+      "title": "Goseong County Seafood Processing Facility",
+      "description": "Support Program Selected Company"
+    },
+    "venture": {
+      "title": "Korea SME & Startups Agency",
+      "description": "Certified Venture Company"
+    },
+    "university": {
+      "title": "Kyungdong University Deep Sea Water Dept.",
+      "description": "Industry-Academia Cooperation Partner"
+    },
+    "ministry": {
+      "title": "Ministry of Oceans and Fisheries",
+      "description": "Registered Fishing Business Entity"
+    }
+  },
+  "cta": {
+    "title": "Create Successful Business with Goseong Myeongtae",
+    "subtitle": "Contact us now for wholesale prices, samples, and partnership opportunities"
+  },
+  "form": {
+    "name": {
+      "label": "Name *",
+      "placeholder": "Please enter your name"
+    },
+    "company": {
+      "label": "Company *",
+      "placeholder": "Please enter your company name"
+    },
+    "email": {
+      "label": "Email *",
+      "placeholder": "Please enter your email address"
+    },
+    "phone": {
+      "label": "Phone",
+      "placeholder": "Please enter your phone number"
+    },
+    "message": {
+      "label": "Message *",
+      "placeholder": "Please provide detailed information about your inquiry"
+    },
+    "submit": "Send Inquiry"
+  },
+  "footer": {
+    "company": "Goseong Myeongtae Co., Ltd.",
+    "ceo": "CEO:",
+    "ceo.name": "[CEO Name]",
+    "address": {
+      "head": "Head Office:",
+      "head.detail": "[Head Office Address]",
+      "factory": "Processing Facility:",
+      "factory.detail": "[Processing Facility Address]",
+      "seoul": "Seoul Office:",
+      "seoul.detail": "[Seoul Office Address]"
+    },
+    "contact": "Contact:",
+    "contact.detail": "[Contact Information]",
+    "copyright": "© 2024 Goseong Myeongtae Co., Ltd. All rights reserved."
+  }
+}
